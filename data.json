@@ -1,0 +1,77 @@
+{
+    "users": [],
+    "movies": [
+        {
+            "id": 1,
+            "title": "Inception",
+            "genre": "Sci-Fi",
+            "duration": 148,
+            "shows": [
+                {
+                    "showId": 101,
+                    "time": "10:00 AM",
+                    "pricePerSeat": 200,
+                    "availableSeats": 27
+                },
+                {
+                    "showId": 102,
+                    "time": "2:00 PM",
+                    "pricePerSeat": 250,
+                    "availableSeats": 50
+                },
+                {
+                    "showId": 103,
+                    "time": "6:00 PM",
+                    "pricePerSeat": 300,
+                    "availableSeats": 50
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "The Dark Knight",
+            "genre": "Action",
+            "duration": 152,
+            "shows": [
+                {
+                    "showId": 201,
+                    "time": "11:00 AM",
+                    "pricePerSeat": 200,
+                    "availableSeats": 50
+                },
+                {
+                    "showId": 202,
+                    "time": "3:00 PM",
+                    "pricePerSeat": 250,
+                    "availableSeats": 50
+                },
+                {
+                    "showId": 203,
+                    "time": "7:00 PM",
+                    "pricePerSeat": 300,
+                    "availableSeats": 50
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Interstellar",
+            "genre": "Sci-Fi",
+            "duration": 169,
+            "shows": [
+                {
+                    "showId": 301,
+                    "time": "12:00 PM",
+                    "pricePerSeat": 250,
+                    "availableSeats": 50
+                },
+                {
+                    "showId": 302,
+                    "time": "5:00 PM",
+                    "pricePerSeat": 300,
+                    "availableSeats": 50
+                }
+            ]
+        }
+    ]
+}

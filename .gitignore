@@ -1,0 +1,34 @@
+# Node.js dependencies
+/node_modules
+
+# Build artifacts
+/dist
+/build
+/out
+*.js.map # Source maps
+*.d.ts   # TypeScript declaration files (if not intended for publishing)
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor and OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test coverage
+/coverage
+
+# Other temporary files
+*.tgz
+*.zip
+.npmrc
