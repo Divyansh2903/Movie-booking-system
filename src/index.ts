@@ -2,7 +2,7 @@ import express, { type NextFunction, type Request, type Response } from "express
 import * as fs from "fs/promises";
 
 const app = express();
-const PORT = 80;
+const PORT = 8080;
 
 app.use(express.json());
 
